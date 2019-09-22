@@ -1,15 +1,12 @@
-﻿/*
- Name:		WeatherBox.ino
- Created:	2019-09-22 오후 2:23:09
- Author:	user
-*/
+﻿
 
-// the setup function runs once when you press reset or power the board
+// 아두이노 실행후 한번만 실행됨
 void setup() {
 
 }
 
-// the loop function runs over and over again until power down or reset
+// setup 함수 실행 후 무한loop가 실행됨.
 void loop() {
-  
+
+
 }
