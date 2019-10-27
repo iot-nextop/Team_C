@@ -9,3 +9,6 @@ C 팀 프로젝트
 
 # WIFI
   esp8266(Board or Module or shield)
+
+# 구조
+![구상도](https://user-images.githubusercontent.com/37135552/67631217-889a1580-f8d6-11e9-83f5-ed6887ec0993.png)
