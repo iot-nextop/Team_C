@@ -13,4 +13,7 @@ $todayWeather = explode(',',$weather); //가져온 문자열을 ,을 기준으�
 
 echo (string)$todayWeather[0]; //$weather 변수를 웹페이지에 출력한다.
 
+//INSERT INTO Log (DateTime,Weather) VALUES(datetime('now', '+9 hours'),"맑음");
+//  SELECT * FROM Log;
+
 ?>
